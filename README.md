@@ -119,7 +119,6 @@ These are then reassembled into the output image.
 2. **Preserves Local Information**: Nearby patches (e.g., `Patch 1` and `Patch 2`) are related (e.g., same fur texture), so merging them doesn’t lose much detail.  
 3. **Reversible**: The unshuffle step perfectly reconstructs the original structure.  
 
----
 
 ### **Real-World Analogy**
 - **Token-Shuffle** = Zipping two JPEGs into one file for faster emailing.  
@@ -130,7 +129,6 @@ These are then reassembled into the output image.
 
 ## Dry Run
 
----
 
 ### **1. Input/Output Dimensions**
 - **Original Image Resolution**:  
